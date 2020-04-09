@@ -8,6 +8,10 @@ Learning Environment
 * [Udemy Python3 Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 * [What exactly can you do with Python?](https://towardsdatascience.com/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
 
+### Libraries / Packages
+
+* [Plotly Python Open Source Graphing Library](https://plotly.com/python/)
+
 ### Data Analysis
 
 ##### General
