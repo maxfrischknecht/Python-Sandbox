@@ -13,6 +13,7 @@ Learning Environment
 ##### General
 
 * [Towards Data Science](https://towardsdatascience.com/)
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
 ##### Clustering / Unsupervised Learning / K-Means
 
