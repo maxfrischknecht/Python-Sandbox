@@ -6,8 +6,13 @@ Learning Environment
 ### Basics
 
 * [Udemy Python3 Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+* [What exactly can you do with Python?](https://towardsdatascience.com/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
 
 ### Data Analysis
+
+##### General
+
+* [Towards Data Science](https://towardsdatascience.com/)
 
 ##### Clustering / Unsupervised Learning / K-Means
 
